@@ -1,21 +1,34 @@
 # Data Scientist
-- Master's student graduating this May. Rich experience in data analytics and modeling across domains of finance, healthcare and consulting. 
 #### Technical Skills: Python, SQL, R, Tableau, Spark, Databricks
 
 ## Education
-- Master's in Data Science, NYU
-- Bachelor in Economics and Data Science, NYU Shanghai
+- Master's in Data Science | New York University (_May 2025_)
+- Bachelor in Economics and Data Science | New York University Shanghai (_May 2022_)
 
 ## Work Experience
-- Data Scientist Intern @ NBCUniversal
-- Data Analytics Intern @ Urban Science
-- Quantitative Strategy Intern @ Haitong Securities
-- Aritificial Intelligence & Data Science Intern @ Fosun
+**Data Scientist Intern @ NBCUniversal (_Jun 2024 - Sep 2024_)
+- Developed and deployed a research-based hierarchical model with Spark, reducing forecast error by 14% and improving R² by 19% across 11 digital platforms, enabling more accurate financial planning.
+- Extended granularity and stability of production models by designing custom filtering and detrending mechanisms. Reduced validation error from 40% to 28% and increased forecast reliability for volatile revenue streams.
 
+**Data Analytics Intern @ Urban Science (_May 2023 - Aug 2023_)
+- Collaborated with a cross-functional team to deliver machine learning solutions for consulting clients, including Volkswagen, addressing business needs in customer retention and after-sales service.
+- Applied machine learning to predict user purchase behavior and identify high-risk churn segments, enabling targeted service strategies and improving customer retention.
+  
+**Quantitative Strategy Intern @ Haitong Securities (_Aug 2022 - Dec2022_)
+- Engineered 12 key financial ratios and developed an ensemble of 4 deep reinforcement learning agents, enhancing risk assessment and guiding high-value investment decisions.
+- Applied sliding-window validation to stabilize returns and mitigate overfitting; selected agents achieved Sharpe ratios 29% above baseline on Dow Jones stocks.
+  
+**Aritificial Intelligence & Data Science Intern @ Fosun (_May 2021 - Jun 2022_)
+- Developed custom Gradient Boosting and neural network models for glucose prediction using PPG data, achieving 0.6 RMSE for non-diabetics and 1.4 RMSE for diabetic patients, contributing to non-invasive healthcare innovation.
+- Optimized training data pools with clustering to boost model generalizability across user profiles. Improved new user prediction accuracy by 23% by building tailored customer segmentation models, driving personalized healthcare strategies.
 
 ## Projects
-    Enhancing rare object detection in vision tasks
-    Investigating parameter budget in NLP
-    Identifying high-risk patients for procedure continuation
-    Fairness enhanced recommendation system
-    Relational Database
+### Enhancing rare object detection in vision tasks
+Developed novel Out-of-Distribution detection pipeline with a dynamic memory buffer, achieving a 47% increase in true positive rate (22%) for rare object identification in autonomous driving datasets, enhancing balanced representation learning.
+
+### Investigating parameter budget in NLP
+Conducted ablation study on a state-of-the-art mixture of Adapter method, reducing parameter size by 90% while enhancing model performance by 3.6% on SuperGLUE tasks.
+Identified different optimal parameter allocation ratios across 5 ratio candidates, 4 tasks, and 3 budget levels on SuperGLUE benchmarks, highlighting the need for task-specific, budget-aware optimization for pre-trained NLP models.
+
+### Fairness enhanced recommendation system
+Implemented CF-based neural networks with regularization and embedding debiasing. With implicit feedback training, the fairness metric improved by 43% to 55% for different subgroup measures and the system maintained the original level of performance.
