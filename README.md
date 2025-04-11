@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Tableau, Spark, Databricks
 
 ## Education
-- Master's in Data Science | New York University (_May 2025_)
-- Bachelor in Economics and Data Science | New York University Shanghai (_May 2022_)
+- Master, Data Science | New York University (_May 2025_)
+- Bachelor, Economics & Data Science | New York University Shanghai (_May 2022_)
 
 ## Work Experience
 **Data Scientist Intern @ NBCUniversal (_Jun 2024 - Sep 2024_)**
@@ -19,7 +19,7 @@
 - Engineered 12 key financial ratios and developed an ensemble of 4 deep reinforcement learning agents, enhancing risk assessment and guiding high-value investment decisions.
 - Applied sliding-window validation to stabilize returns and mitigate overfitting; selected agents achieved Sharpe ratios 29% above baseline on Dow Jones stocks.
   
-**Aritificial Intelligence & Data Science Intern @ Fosun (_May 2021 - Jun 2022_)**
+**AI & Data Science Intern @ Fosun (_May 2021 - Jun 2022_)**
 - Developed custom Gradient Boosting and neural network models for glucose prediction using PPG data, achieving 0.6 RMSE for non-diabetics and 1.4 RMSE for diabetic patients, contributing to non-invasive healthcare innovation.
 - Optimized training data pools with clustering to boost model generalizability across user profiles. Improved new user prediction accuracy by 23% by building tailored customer segmentation models, driving personalized healthcare strategies.
 
@@ -30,6 +30,9 @@ Developed novel Out-of-Distribution detection pipeline with a dynamic memory buf
 ### Investigating parameter budget in NLP
 Conducted ablation study on a state-of-the-art mixture of Adapter method, reducing parameter size by 90% while enhancing model performance by 3.6% on SuperGLUE tasks.
 Identified different optimal parameter allocation ratios across 5 ratio candidates, 4 tasks, and 3 budget levels on SuperGLUE benchmarks, highlighting the need for task-specific, budget-aware optimization for pre-trained NLP models.
+
+### Identification of hish-risk patients in procedure continuation
+Perform data cleaning and feature engineer on raw medical and pharmacy records. Built ensemble models and further improved AUC by 14% with a stacking meta model. Fairness adjusted AUC score ranked top 20% of more than 200 participating teams.
 
 ### Fairness enhanced recommendation system
 Implemented CF-based neural networks with regularization and embedding debiasing. With implicit feedback training, the fairness metric improved by 43% to 55% for different subgroup measures and the system maintained the original level of performance.
