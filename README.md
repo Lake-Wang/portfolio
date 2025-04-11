@@ -1,4 +1,5 @@
 # Data Scientist
+
 #### Technical Skills: Python, SQL, R, Tableau, Spark, Databricks
 
 ## Education
@@ -6,19 +7,19 @@
 - Bachelor in Economics and Data Science | New York University Shanghai (_May 2022_)
 
 ## Work Experience
-**Data Scientist Intern @ NBCUniversal (_Jun 2024 - Sep 2024_)
+**Data Scientist Intern @ NBCUniversal (_Jun 2024 - Sep 2024_)**
 - Developed and deployed a research-based hierarchical model with Spark, reducing forecast error by 14% and improving R² by 19% across 11 digital platforms, enabling more accurate financial planning.
 - Extended granularity and stability of production models by designing custom filtering and detrending mechanisms. Reduced validation error from 40% to 28% and increased forecast reliability for volatile revenue streams.
 
-**Data Analytics Intern @ Urban Science (_May 2023 - Aug 2023_)
+**Data Analytics Intern @ Urban Science (_May 2023 - Aug 2023_)**
 - Collaborated with a cross-functional team to deliver machine learning solutions for consulting clients, including Volkswagen, addressing business needs in customer retention and after-sales service.
 - Applied machine learning to predict user purchase behavior and identify high-risk churn segments, enabling targeted service strategies and improving customer retention.
   
-**Quantitative Strategy Intern @ Haitong Securities (_Aug 2022 - Dec2022_)
+**Quantitative Strategy Intern @ Haitong Securities (_Aug 2022 - Dec2022_)**
 - Engineered 12 key financial ratios and developed an ensemble of 4 deep reinforcement learning agents, enhancing risk assessment and guiding high-value investment decisions.
 - Applied sliding-window validation to stabilize returns and mitigate overfitting; selected agents achieved Sharpe ratios 29% above baseline on Dow Jones stocks.
   
-**Aritificial Intelligence & Data Science Intern @ Fosun (_May 2021 - Jun 2022_)
+**Aritificial Intelligence & Data Science Intern @ Fosun (_May 2021 - Jun 2022_)**
 - Developed custom Gradient Boosting and neural network models for glucose prediction using PPG data, achieving 0.6 RMSE for non-diabetics and 1.4 RMSE for diabetic patients, contributing to non-invasive healthcare innovation.
 - Optimized training data pools with clustering to boost model generalizability across user profiles. Improved new user prediction accuracy by 23% by building tailored customer segmentation models, driving personalized healthcare strategies.
 
