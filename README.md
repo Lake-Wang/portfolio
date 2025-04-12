@@ -36,8 +36,8 @@ Identified different optimal parameter allocation ratios across 5 ratio candidat
 
 ### Fairness enhanced recommendation system
 Implemented CF-based neural networks with regularization and embedding debiasing. With implicit feedback training, the fairness metric improved by 43% to 55% for different subgroup measures and the system maintained the original level of performance. Below are vector projections before and after debiasing. 
-<img src="/asset/embedding_binary_age.png" alt="Recommender age" width="250"/>
-<img src="/asset/embedding_binary_age.png" alt="Recommender gender" width="250"/>
+<img src="/asset/embedding_binary_age.png" alt="Recommender age" width="300"/>
+<img src="/asset/embedding_gender.png" alt="Recommender gender" width="300"/>
 
 ### Identification of hish-risk patients in procedure continuation
 Perform data cleaning and feature engineer on raw medical and pharmacy records. Built ensemble models and further improved AUC by 14% with a stacking meta model. Fairness adjusted AUC score ranked top 20% of more than 200 participating teams.
