@@ -25,14 +25,20 @@
 
 ## Projects
 ### Enhancing rare object detection in vision tasks
-Developed novel Out-of-Distribution detection pipeline with a dynamic memory buffer, achieving a 47% increase in true positive rate (22%) for rare object identification in autonomous driving datasets, enhancing balanced representation learning.
+Developed novel Out-of-Distribution detection pipeline with a dynamic memory buffer, achieving a 47% increase in true positive rate (22%) for rare object identification in autonomous driving datasets, enhancing balanced representation learning. Improved model training with regard to the important long tail distribution. 
+(/assets/long_tail.png)
+(/assets/new_flow_chart.png)
 
 ### Investigating parameter budget in NLP
-Conducted ablation study on a state-of-the-art mixture of Adapter method, reducing parameter size by 90% while enhancing model performance by 3.6% on SuperGLUE tasks.
+Conducted ablation study on a state-of-the-art mixture of Adapter method (MAM), reducing parameter size by 90% while enhancing model performance by 3.6% on SuperGLUE tasks.
 Identified different optimal parameter allocation ratios across 5 ratio candidates, 4 tasks, and 3 budget levels on SuperGLUE benchmarks, highlighting the need for task-specific, budget-aware optimization for pre-trained NLP models.
+(/assets/MAM Adapter.png)
+
+### Fairness enhanced recommendation system
+Implemented CF-based neural networks with regularization and embedding debiasing. With implicit feedback training, the fairness metric improved by 43% to 55% for different subgroup measures and the system maintained the original level of performance. Below are vector projections before and after debiasing. 
+(/assets/embedding_binary_age.png)
+(/assets/embedding_gender.png)
 
 ### Identification of hish-risk patients in procedure continuation
 Perform data cleaning and feature engineer on raw medical and pharmacy records. Built ensemble models and further improved AUC by 14% with a stacking meta model. Fairness adjusted AUC score ranked top 20% of more than 200 participating teams.
 
-### Fairness enhanced recommendation system
-Implemented CF-based neural networks with regularization and embedding debiasing. With implicit feedback training, the fairness metric improved by 43% to 55% for different subgroup measures and the system maintained the original level of performance.
