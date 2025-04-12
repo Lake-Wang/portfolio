@@ -27,7 +27,6 @@
 ### Enhancing rare object detection in vision tasks
 Developed novel Out-of-Distribution detection pipeline with a dynamic memory buffer, achieving a 47% increase in true positive rate (22%) for rare object identification in autonomous driving datasets, enhancing balanced representation learning. Improved model training with regard to the important long tail distribution. 
 ![OOD longtail](/asset/long_tail.png)
-<img src="/asset/long_tail.png" alt="OOD longtail" width="200"/>
 ![OOD flowchart](/asset/new_flow_chart.png)
 
 ### Investigating parameter budget in NLP
@@ -37,8 +36,8 @@ Identified different optimal parameter allocation ratios across 5 ratio candidat
 
 ### Fairness enhanced recommendation system
 Implemented CF-based neural networks with regularization and embedding debiasing. With implicit feedback training, the fairness metric improved by 43% to 55% for different subgroup measures and the system maintained the original level of performance. Below are vector projections before and after debiasing. 
-![Recommender age](/asset/embedding_binary_age.png)
-![Recommender gender](/asset/embedding_gender.png)
+<img src="/asset/embedding_binary_age.png" alt="Recommender age" width="400"/>
+<img src="/asset/embedding_binary_age.png" alt="Recommender gender" width="400"/>
 
 ### Identification of hish-risk patients in procedure continuation
 Perform data cleaning and feature engineer on raw medical and pharmacy records. Built ensemble models and further improved AUC by 14% with a stacking meta model. Fairness adjusted AUC score ranked top 20% of more than 200 participating teams.
