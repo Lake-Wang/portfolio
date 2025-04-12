@@ -27,6 +27,7 @@
 ### Enhancing rare object detection in vision tasks
 Developed novel Out-of-Distribution detection pipeline with a dynamic memory buffer, achieving a 47% increase in true positive rate (22%) for rare object identification in autonomous driving datasets, enhancing balanced representation learning. Improved model training with regard to the important long tail distribution. 
 ![OOD longtail](/asset/long_tail.png)
+<img src="/asset/long_tail.png" alt="OOD longtail" width="200"/>
 ![OOD flowchart](/asset/new_flow_chart.png)
 
 ### Investigating parameter budget in NLP
